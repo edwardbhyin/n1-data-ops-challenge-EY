@@ -9,3 +9,6 @@ Hello! My answers for the data ops challenge can be found in the following place
 
 ### Part b
 `EDA.ipynb` - Final table constructed and added to the database. Accomplished in cells 27-35
+
+### Part c
+`Questions.ipynb` - Quesitons 1 through 6 are answered in this notebook. *Note: I answered these questions under the assumption that they are supposed to be answered using the table created in part b (`std_member_info`).*
